@@ -274,5 +274,8 @@ PHP_Laravel12_Throttle/
 ---
 
 Your PHP_Laravel12_Throttle Project is now ready!
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> development
