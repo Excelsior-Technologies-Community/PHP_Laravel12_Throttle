@@ -15,6 +15,8 @@ return new class extends Migration {
             $table->unsignedBigInteger('user_id')->nullable();
             $table->string('ip');
             $table->string('endpoint');
+            $table->string('method');     
+            $table->integer('status_code');
             $table->timestamps();
         });
     }
